@@ -1,5 +1,6 @@
 {
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "c:\\Users\\202010070020\\Desktop\\biblio\\biblioteca.jar"
     ]
 }
