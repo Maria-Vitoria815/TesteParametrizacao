@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
       
         Scanner scanner = new Scanner(System.in);
-        Cadastros<Conta> cadastros = new Cadastros<>();
+        Cadastros<Conta> cadastros = new Cadastros<Conta>();
 
         while (true) {
 
