@@ -1,4 +1,5 @@
 package teste;
+import br.edu.ifba.biblio.Cadastros;
 import java.util.Scanner;
 
 public class Main {
